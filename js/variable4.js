@@ -10,7 +10,7 @@ num1 += "40"; // num1 = num1 + "40";
 
 let num2 = 10; // number
 num2 += 20;
-num2 += 3
+num2 += 3 ;
 num2 = num2 - 5; //55
 num2 -= 5; // 50
 
@@ -21,8 +21,8 @@ num2 = 10203040;
 console.log(num2 == num1); // 동일
 console.log(num2 == num1); // 다름
 
-console.log(num != num1); //값만 비교
-console.log(num !== num1); // 값, 타입
+console.log(num2 != num1); //값만 비교
+console.log(num2 !== num1); // 값, 타입
 
 //논리연산자.
 console.clear();
