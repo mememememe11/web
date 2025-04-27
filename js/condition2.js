@@ -11,3 +11,5 @@ if (isTrue) {
 } else {
      console.log('홀수');
 }
+
+                

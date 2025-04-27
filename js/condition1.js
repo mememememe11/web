@@ -3,12 +3,12 @@
 // let num1 = 5;
 // let num2 = 10;
 
-// isTrue = 3 < 5 ;
-// isTrue = num1 < 5;
-// isTrue = --num1 < 5;
-// isTrue = --num1 <= 4 || num2++ == 10;
-// isTrue = 10; // true / false => truthy / falsy (0, "", null, undefied, NaN)
-// console.log(num1,num2);
+//  isTrue = 3 < 5 ;
+//  isTrue = num1 < 5;
+//  isTrue = --num1 < 5;
+//  isTrue = --num1 <= 4 || num2++ == 10;
+//  isTrue = 10; // true / false => truthy / falsy (0, "", null, undefied, NaN)
+//  console.log(num1,num2);
     
 
 // if (isTrue) {
