@@ -12,6 +12,10 @@
 //     }
 
     
+    
+
+
+
     // 30~100 임의의 값.
     let result = 30 + Math.floor(Math.random() * 71 );
     console.log(result);

@@ -21,19 +21,19 @@
 
 
 // let result = 30 + Math.floor(Math.random() * 71); // 0 <- x < 71
-/ console.log(result);
+// / console.log(result);
 
-/ if (result >= 95) {
-/     console.log ("A+ 입니다");
-/     }else if (result >= 85){
-/     console.log ("A 입니다") ;
-/     }else if (result >= 75){
-/     console.log ("B 입니다") ;
-/     }else if (result >= 65){
-/     console.log ("C 입니다") ;
-/     }
-/     else if (result >= 60) {
-//     console.log ("D입니다");
+// / if (result >= 95) {
+// /     console.log ("A+ 입니다");
+// /     }else if (result >= 85){
+// /     console.log ("A 입니다") ;
+// /     }else if (result >= 75){
+// /     console.log ("B 입니다") ;
+// /     }else if (result >= 65){
+// /     console.log ("C 입니다") ;
+// /     }
+// /     else if (result >= 60) {
+// //     console.log ("D입니다");
 //     }
     
 //     else {
@@ -173,11 +173,12 @@
 
             // number %=2; ---> (number = number % 2;)
 
-            전개구문 전개연산자
+            // 전개구문 전개연산자
 
-            
+                    const ad = 10;
+                    const b = 20;
 
-
+                    console.log(ad); 
 
 
 

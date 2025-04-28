@@ -15,4 +15,15 @@
             console.log('2,3의 배수가 아님');
         }
 
+
+        if (result % 2 == 0 && result % 3 == 0) {
+            console.log ('2&3 의 배수');
+        } else if (result % 2 == 0) {
+            console.log ('2의 배수');
+        }
+         else if (result % 3 == 0) {
+            console.log ('3의 배수');
+         } else {
+            console.log ('2,3의 배수가 아님');
+         }
     
