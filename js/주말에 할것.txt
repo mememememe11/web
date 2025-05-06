@@ -1,0 +1,38 @@
+css 8번
+
+텍스트얼라인
+
+10번 폰트웨이트
+
+11번 레디어스 
+
+백그라운드 알지비 a:255:255:255
+반투명0.5
+테두리 실선 0.5 솔리드 
+
+13번 인풋태그선택하고
+width를 250선택
+
+14번 버튼크기는 꼭 버튼태그 사용하기(input 사용 x)
+
+15번 플롯으로 뛰우면 푸터가 들어옴 그때
+ 클리어보스
+
+
+
+        웹 프로그래밍 관련 학습 사이트
+
+		"w3schools.com"
+
+	"flexbox froggy"
+	플렉스박스 연습 사이트
+
+
+깃허브비번:    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
+
+   cmd - d - dev -dir- git clone https://github.com/mememememe11/web.git
+
+
+함수 연습 반복문연습
+매개변수가 뭔지
+조건값이 뭔지

@@ -1,0 +1,22 @@
+//jsonData.js
+
+let json=`[{"id":1,"first_name":"Ivory","last_name":"Camocke","email":"icamocke0@nifty.com","gender":"Female","salary":6650},
+{"id":2,"first_name":"Lazar","last_name":"Summerrell","email":"lsummerrell1@deviantart.com","gender":"Male","salary":6739},
+{"id":3,"first_name":"Stearn","last_name":"Cordey","email":"scordey2@mashable.com","gender":"Genderfluid","salary":6605},
+{"id":4,"first_name":"Rickert","last_name":"Breazeall","email":"rbreazeall3@myspace.com","gender":"Male","salary":3142},
+{"id":5,"first_name":"Robin","last_name":"Heisham","email":"rheisham4@biglobe.ne.jp","gender":"Non-binary","salary":8258},
+{"id":6,"first_name":"Caspar","last_name":"Tasch","email":"ctasch5@bbb.org","gender":"Male","salary":2157},
+{"id":7,"first_name":"Egbert","last_name":"Nabbs","email":"enabbs6@vk.com","gender":"Genderfluid","salary":7273},
+{"id":8,"first_name":"Sherri","last_name":"Lemoir","email":"slemoir7@t.co","gender":"Female","salary":2726},
+{"id":9,"first_name":"Pierce","last_name":"Sandle","email":"psandle8@addtoany.com","gender":"Male","salary":5603},
+{"id":10,"first_name":"Blythe","last_name":"Antonikov","email":"bantonikov9@google.com.hk","gender":"Female","salary":7681},
+{"id":11,"first_name":"Letty","last_name":"de Merida","email":"ldemeridaa@harvard.edu","gender":"Female","salary":6861},
+{"id":12,"first_name":"Eugenius","last_name":"Colbourn","email":"ecolbournb@taobao.com","gender":"Male","salary":5239},
+{"id":13,"first_name":"Myrle","last_name":"Wrack","email":"mwrackc@illinois.edu","gender":"Genderfluid","salary":3986},
+{"id":14,"first_name":"Mozelle","last_name":"Luquet","email":"mluquetd@aboutads.info","gender":"Female","salary":8137},
+{"id":15,"first_name":"Lucien","last_name":"Flexman","email":"lflexmane@sina.com.cn","gender":"Male","salary":5262},
+{"id":16,"first_name":"Lavinia","last_name":"Wellings","email":"lwellingsf@baidu.com","gender":"Female","salary":4826},
+{"id":17,"first_name":"Ansel","last_name":"Blenkinsop","email":"ablenkinsopg@example.com","gender":"Male","salary":7042},
+{"id":18,"first_name":"Kareem","last_name":"Lamberton","email":"klambertonh@uol.com.br","gender":"Male","salary":2141},
+{"id":19,"first_name":"Leia","last_name":"Florence","email":"lflorencei@chicagotribune.com","gender":"Female","salary":8139},
+{"id":20,"first_name":"Dewain","last_name":"Grieveson","email":"dgrievesonj@umich.edu","gender":"Male","salary":7672}]`
