@@ -1872,9 +1872,9 @@ str += msg + ", ";
 }
 
 System.out.println(str);
-scn.close();
+scn.close();asdad
 }
-}
+}vxcxcvsdxvfdsfc
 
 
 
